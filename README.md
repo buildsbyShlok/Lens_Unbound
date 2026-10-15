@@ -13,6 +13,11 @@
 </p>
 
 ---
+## 🚀 Live Preview
+
+**Experience LENS BOUND live:** [lens-unbound.vercel.app](https://lens-unbound.vercel.app/)
+
+Explore the interactive 3D AI smart glasses experience directly in your browser.
 
 ## Overview
 
